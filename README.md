@@ -1,4 +1,4 @@
 # hello-world
 learn how git works and try all the functionalities inside it
 
-testing pull-requests
+adding new stuff t my code. this is so cool
